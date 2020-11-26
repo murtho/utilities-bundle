@@ -2,7 +2,7 @@
     "name": "murtho/utilities-bundle",
     "description": "A bundle of all utility packages by murtho",
     "keywords": [ "murtho", "utilities", "bundle" ],
-    "license": "MIT",
+	"type": "bundle",
     "homepage": "https://github.com/murtho",
     "minimum-stability": "stable",
     "authors": [
@@ -12,7 +12,6 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/murtho/utilities-bundle/issues",
         "source": "https://github.com/murtho/utilities-bundle"
     },
     "require": {
