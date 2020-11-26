@@ -18,6 +18,8 @@
     "require": {
         "php": ">=7.2.0",
         "murtho/array-utilities": "^1.0",
-        "murtho/string-utilities": "^1.0"
+        "murtho/string-utilities": "^1.0",
+        "murtho/date-utilities": "^1.0",
+        "murtho/regex-utilities": "^1.0"
     }
 }

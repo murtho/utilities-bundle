@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "418de92f3b667d505dca82282c22aa67",
+    "content-hash": "d0146ff8b47b13f64ef257c4731ac254",
     "packages": [
         {
             "name": "murtho/array-utilities",
@@ -50,6 +50,96 @@
                 "utilities"
             ],
             "time": "2020-11-26T13:57:20+00:00"
+        },
+        {
+            "name": "murtho/date-utilities",
+            "version": "v1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/murtho/date-utilities.git",
+                "reference": "f9e16af27643b8b9090aa2e6d8f66d31a820619e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/murtho/date-utilities/zipball/f9e16af27643b8b9090aa2e6d8f66d31a820619e",
+                "reference": "f9e16af27643b8b9090aa2e6d8f66d31a820619e",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.2.0"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^9.4"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Murtho\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Maarten Verijdt",
+                    "email": "murtho@gmail.com"
+                }
+            ],
+            "description": "Utilities for dates",
+            "homepage": "https://github.com/murtho",
+            "keywords": [
+                "date",
+                "murtho",
+                "utilities"
+            ],
+            "time": "2020-11-26T17:07:34+00:00"
+        },
+        {
+            "name": "murtho/regex-utilities",
+            "version": "v1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/murtho/regex-utilities.git",
+                "reference": "eb4964142152556a99882dd31b9bd542e6149893"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/murtho/regex-utilities/zipball/eb4964142152556a99882dd31b9bd542e6149893",
+                "reference": "eb4964142152556a99882dd31b9bd542e6149893",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.2.0"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^9.4"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Murtho\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Maarten Verijdt",
+                    "email": "murtho@gmail.com"
+                }
+            ],
+            "description": "Utilities for regular expressions",
+            "homepage": "https://github.com/murtho",
+            "keywords": [
+                "murtho",
+                "regex",
+                "utilities"
+            ],
+            "time": "2020-11-26T17:08:26+00:00"
         },
         {
             "name": "murtho/string-utilities",
