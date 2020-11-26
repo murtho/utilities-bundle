@@ -1,0 +1,23 @@
+{
+    "name": "murtho/utilities-bundle",
+    "description": "A bundle of all utility packages by murtho",
+    "keywords": [ "murtho", "utilities", "bundle" ],
+    "license": "MIT",
+    "homepage": "https://github.com/murtho",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "Maarten Verijdt",
+            "email": "murtho@gmail.com"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/murtho/utilities-bundle/issues",
+        "source": "https://github.com/murtho/utilities-bundle"
+    },
+    "require": {
+        "php": ">=7.2.0",
+        "murtho/array-utilities": "^1.0",
+        "murtho/string-utilities": "^1.0"
+    }
+}

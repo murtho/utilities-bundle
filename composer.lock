@@ -1,0 +1,111 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "418de92f3b667d505dca82282c22aa67",
+    "packages": [
+        {
+            "name": "murtho/array-utilities",
+            "version": "v1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/murtho/array-utilities.git",
+                "reference": "657c062a32bc13b39d00a535d9deee721e2066b2"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/murtho/array-utilities/zipball/657c062a32bc13b39d00a535d9deee721e2066b2",
+                "reference": "657c062a32bc13b39d00a535d9deee721e2066b2",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.2.0"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^9.4"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Murtho\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Maarten Verijdt",
+                    "email": "murtho@gmail.com"
+                }
+            ],
+            "description": "Utilities for arrays",
+            "homepage": "https://github.com/murtho",
+            "keywords": [
+                "array",
+                "murtho",
+                "utilities"
+            ],
+            "time": "2020-11-26T13:57:20+00:00"
+        },
+        {
+            "name": "murtho/string-utilities",
+            "version": "v1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/murtho/string-utilities.git",
+                "reference": "51bee10b1121804848f7687a5e1e22fee876a4a6"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/murtho/string-utilities/zipball/51bee10b1121804848f7687a5e1e22fee876a4a6",
+                "reference": "51bee10b1121804848f7687a5e1e22fee876a4a6",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.2.0"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^9.4"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Murtho\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Maarten Verijdt",
+                    "email": "murtho@gmail.com"
+                }
+            ],
+            "description": "Utilities for strings",
+            "homepage": "https://github.com/murtho",
+            "keywords": [
+                "murtho",
+                "string",
+                "utilities"
+            ],
+            "time": "2020-11-26T14:09:31+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {
+        "php": ">=7.2.0"
+    },
+    "platform-dev": [],
+    "plugin-api-version": "1.1.0"
+}
