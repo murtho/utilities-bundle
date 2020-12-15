@@ -49,6 +49,10 @@
                 "murtho",
                 "utilities"
             ],
+            "support": {
+                "issues": "https://github.com/murtho/array-utilities/issues",
+                "source": "https://github.com/murtho/array-utilities"
+            },
             "time": "2020-11-26T13:57:20+00:00"
         },
         {
@@ -94,6 +98,10 @@
                 "murtho",
                 "utilities"
             ],
+            "support": {
+                "issues": "https://github.com/murtho/date-utilities/issues",
+                "source": "https://github.com/murtho/date-utilities"
+            },
             "time": "2020-11-26T17:07:34+00:00"
         },
         {
@@ -102,12 +110,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/murtho/regex-utilities.git",
-                "reference": "eb4964142152556a99882dd31b9bd542e6149893"
+                "reference": "48576cca978b92a2c02a618d25a35770747819e1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/murtho/regex-utilities/zipball/eb4964142152556a99882dd31b9bd542e6149893",
-                "reference": "eb4964142152556a99882dd31b9bd542e6149893",
+                "url": "https://api.github.com/repos/murtho/regex-utilities/zipball/48576cca978b92a2c02a618d25a35770747819e1",
+                "reference": "48576cca978b92a2c02a618d25a35770747819e1",
                 "shasum": ""
             },
             "require": {
@@ -139,7 +147,11 @@
                 "regex",
                 "utilities"
             ],
-            "time": "2020-11-26T17:08:26+00:00"
+            "support": {
+                "issues": "https://github.com/murtho/regex-utilities/issues",
+                "source": "https://github.com/murtho/regex-utilities"
+            },
+            "time": "2020-12-15T17:17:37+00:00"
         },
         {
             "name": "murtho/string-utilities",
@@ -184,6 +196,10 @@
                 "string",
                 "utilities"
             ],
+            "support": {
+                "issues": "https://github.com/murtho/string-utilities/issues",
+                "source": "https://github.com/murtho/string-utilities"
+            },
             "time": "2020-11-26T14:09:31+00:00"
         }
     ],
@@ -197,5 +213,5 @@
         "php": ">=7.2.0"
     },
     "platform-dev": [],
-    "plugin-api-version": "1.1.0"
+    "plugin-api-version": "2.0.0"
 }
