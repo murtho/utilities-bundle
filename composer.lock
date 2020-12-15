@@ -110,12 +110,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/murtho/regex-utilities.git",
-                "reference": "48576cca978b92a2c02a618d25a35770747819e1"
+                "reference": "e9e35ec9632c5b70007401079fb73109606475d6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/murtho/regex-utilities/zipball/48576cca978b92a2c02a618d25a35770747819e1",
-                "reference": "48576cca978b92a2c02a618d25a35770747819e1",
+                "url": "https://api.github.com/repos/murtho/regex-utilities/zipball/e9e35ec9632c5b70007401079fb73109606475d6",
+                "reference": "e9e35ec9632c5b70007401079fb73109606475d6",
                 "shasum": ""
             },
             "require": {
@@ -151,7 +151,7 @@
                 "issues": "https://github.com/murtho/regex-utilities/issues",
                 "source": "https://github.com/murtho/regex-utilities"
             },
-            "time": "2020-12-15T17:17:37+00:00"
+            "time": "2020-12-15T23:43:56+00:00"
         },
         {
             "name": "murtho/string-utilities",
